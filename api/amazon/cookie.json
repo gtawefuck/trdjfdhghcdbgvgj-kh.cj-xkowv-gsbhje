@@ -1,0 +1,17 @@
+[
+  {
+    "name": "aws-waf-token",
+    "value": "7bef4614-4327-4f2d-b57c-b176c8e390d3:EAoAsBNuJS/ZAAAA:+lb+J4vyaBbqCxmEUiVtPs+sxoC5RKkdtKaNpgKhVI5ifMz0p4CkmrbbM4dohITXgtgs7yFXV7UJ5QqMMa/hrFvRISATvU6dcqIeAO0KtzFCug2xdwn1XRKlL2nO/YavNQ7Qv8wfdPbI4kJeKBdCWJneNctJk+eHygkusFmsMl9O2oTz+2hdzhP8UbP2HdhM6Jr40ZtpYIJ+EknKxiqJmZksjKrjWdj3",
+    "domain": ".inscricoes.wyden.com.br",
+    "path": "/",
+    "expires": 1750088865,
+    "size": 291,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "Lax",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  }
+]
