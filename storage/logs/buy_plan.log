@@ -1,0 +1,17 @@
+[2025-08-17T04:03:52+08:00] BUY_PLAN ERROR: Call to undefined function mb_substr() @/www/wwwroot/cyborx.net/api/buy_plan.php:58
+[2025-08-17T04:04:05+08:00] BUY_PLAN ERROR: Call to undefined function mb_substr() @/www/wwwroot/cyborx.net/api/buy_plan.php:58
+[2025-08-17T04:04:13+08:00] BUY_PLAN ERROR: Call to undefined function mb_substr() @/www/wwwroot/cyborx.net/api/buy_plan.php:58
+[2025-08-17T04:04:54+08:00] BUY_PLAN ERROR: Call to undefined function mb_substr() @/www/wwwroot/cyborx.net/api/buy_plan.php:58
+[2025-08-17T04:05:13+08:00] BUY_PLAN ERROR: Call to undefined function mb_substr() @/www/wwwroot/cyborx.net/api/buy_plan.php:58
+[2025-08-17T04:12:13+08:00] BUY_PLAN ERROR: Call to undefined function mb_substr() @/www/wwwroot/cyborx.net/api/buy_plan.php:42
+[2025-08-17T04:24:57+08:00] BUY_PLAN ERROR: Call to undefined function mb_substr() @/www/wwwroot/cyborx.net/api/buy_plan.php:42
+[2025-08-17T04:30:17+08:00] BUY_PLAN ERROR: Call to undefined function mb_substr() @/www/wwwroot/cyborx.net/api/buy_plan.php:40
+[2025-08-17T04:30:25+08:00] BUY_PLAN ERROR: Call to undefined function mb_substr() @/www/wwwroot/cyborx.net/api/buy_plan.php:40
+[2025-08-17T07:43:54+00:00] tg_send fail:  http=429
+[2025-10-28T16:58:34+00:00] tg_send fail:  http=429
+[2025-11-20T22:40:31+00:00] tg_send fail: Operation timed out after 10000 milliseconds with 0 out of 0 bytes received http=0
+[2025-11-21T02:57:11+00:00] tg_send fail: Operation timed out after 10000 milliseconds with 0 out of 0 bytes received http=0
+[2025-11-21T02:57:21+00:00] tg_send fail: Operation timed out after 10001 milliseconds with 0 out of 0 bytes received http=0
+[2025-11-22T08:04:40+00:00] tg_send fail: Operation timed out after 10001 milliseconds with 0 out of 0 bytes received http=0
+[2025-11-25T03:51:35+00:00] tg_send fail: Operation timed out after 10001 milliseconds with 0 out of 0 bytes received http=0
+[2025-11-26T10:20:46+00:00] tg_send fail: Operation timed out after 10001 milliseconds with 0 out of 0 bytes received http=0
